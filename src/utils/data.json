@@ -1,0 +1,70 @@
+[
+    {
+        "name": "New",
+        "icon": "fa-solid fa-house"
+    },
+    {
+        "name": "JS Mastery",
+        "icon": "fa-solid fa-code"
+    },
+    {
+        "name": "Coding",
+        "icon": "fa-solid fa-code"
+    },
+    {
+        "name": "ReactJS",
+        "icon": "fa-solid fa-code"
+    },
+    {
+        "name": "NextJS",
+        "icon": "fa-solid fa-code"
+    },
+    {
+        "name": "Music",
+        "icon": "fa-solid fa-music"
+    },
+    {
+        "name": "Education",
+        "icon": "fa-solid fa-graduation-cap"
+    },
+    {
+        "name": "Podcast",
+        "icon": "fa-solid fa-podcast"
+    },
+    {
+        "name": "Movie",
+        "icon": "fa-solid fa-video"
+    },
+    {
+        "name": "Gaming",
+        "icon": "fa-solid fa-gamepad"
+    },
+    {
+        "name": "Live",
+        "icon": "fa-solid fa-camera"
+    },
+    {
+        "name": "Sport",
+        "icon": "fa-solid fa-volleyball"
+    },
+    {
+        "name": "Fashion",
+        "icon": "fa-solid fa-shirt"
+    },
+    {
+        "name": "Beauty",
+        "icon": "fa-solid fa-wand-magic-sparkles"
+    },
+    {
+        "name": "Comedy",
+        "icon": "fa-solid fa-masks-theater"
+    },
+    {
+        "name": "Gym",
+        "icon": "fa-solid fa-dumbbell"
+    },
+    {
+        "name": "Crypto",
+        "icon": "fa-brands fa-bitcoin"
+    }
+]
